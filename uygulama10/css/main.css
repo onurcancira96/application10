@@ -1,0 +1,41 @@
+.hucre{
+    background-color: #EAEAEA;
+    height: 17vh;
+    box-shadow: 0px 8px 17px 2px rgba(0,0,0,0.14) , 0px 3px 14px 2px rgba(0,0,0,0.12) , 0px 5px 5px -3px rgba(0,0,0,0.2) ;
+    transition: background-color 1s;
+
+  }
+  .hucre:hover{
+    background-color: #444444;
+    box-shadow: 0px 16px 24px 2px rgba(0,0,0,0.14) , 0px 6px 30px 5px rgba(0,0,0,0.12) , 0px 8px 10px -7px rgba(0,0,0,0.2);
+  }
+  .ac{
+    opacity:1;
+    transition: opacity 0.5s;
+  }
+  .kapa{
+    height: 17vh;
+    opacity:0;
+    transition: opacity 0.5s;
+  }
+img{width: 100%;
+    height: 100%;
+    opacity: 0;
+}
+.kartlar{
+    box-shadow: 0px 8px 17px 2px rgba(0,0,0,0.14) , 0px 3px 14px 2px rgba(0,0,0,0.12) , 0px 5px 5px -3px rgba(0,0,0,0.2) ;
+}
+.yeni{
+    background-color: #EAEAEA;
+    text-align: center;
+    box-shadow: 0px 8px 17px 2px rgba(0,0,0,0.14) , 0px 3px 14px 2px rgba(0,0,0,0.12) , 0px 5px 5px -3px rgba(0,0,0,0.2) ;
+}
+.yeni:hover{
+    background-color: #EAEAEA;
+    box-shadow: 0px 16px 24px 2px rgba(0,0,0,0.14) , 0px 6px 30px 5px rgba(0,0,0,0.12) , 0px 8px 10px -7px rgba(0,0,0,0.2)  ;
+}
+.yeni:active{
+    background-color: #EAEAEA;
+    text-align: center;
+    box-shadow: 0px 8px 17px 2px rgba(0,0,0,0.14) , 0px 3px 14px 2px rgba(0,0,0,0.12) , 0px 5px 5px -3px rgba(0,0,0,0.2) ;
+}

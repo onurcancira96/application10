@@ -1,0 +1,33 @@
+{
+    "data":[
+        {
+            "pic":"1.png",
+            "name":"Wartortle "
+        },
+        {
+            "pic":"2.png",
+            "name":"Raticate"
+        },
+        {
+            "pic":"3.png",
+            "name":"Sandslash"
+        },
+        {
+            "pic":"4.png",
+            "name":"Abra "
+        },
+        {
+            "pic":"5.png",
+            "name":"Gengar "
+        },
+        {
+            "pic":"6.png",
+            "name":"Espeon "
+        },
+        {
+            "pic":"7.png",
+            "name":"Talonflame"
+        }
+  
+    ]
+}
